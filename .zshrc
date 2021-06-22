@@ -85,6 +85,10 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+# nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
