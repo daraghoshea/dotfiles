@@ -21,6 +21,7 @@ git clone git@github.com:daraghoshea/rugby-highlights.git $SITES/rugby-highlight
 git clone git@github.com:daraghoshea/rugby-highlights-scraper.git $SITES/rugby-highlights-scraper
 git clone git@github.com:daraghoshea/rugby-scraper.git $SITES/rugby-scraper
 git clone git@github.com:daraghoshea/rugby-scraper-nova.git $SITES/rugby-scraper-nova
+git clone git@github.com:daraghoshea/boi-parser-v1.git $SITES/boi-parser-v1
 
 # Other
 git clone git@github.com:daraghoshea/dddireland.git $SITES/dddireland
